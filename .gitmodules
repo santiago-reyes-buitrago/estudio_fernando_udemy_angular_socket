@@ -1,0 +1,6 @@
+[submodule "02-basico"]
+	path = 02-basico
+	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_basic_socket.git
+[submodule "01-server"]
+	path = 01-server
+	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_server_socket.git
